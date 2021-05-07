@@ -1,0 +1,13 @@
+#myCanvas{
+    border: solid black;
+}
+
+#canvasDiv{
+    text-align: center;
+    margin: auto;
+}
+
+#pointsDiv{
+    text-align: center;
+    font-size: xx-large;
+}
